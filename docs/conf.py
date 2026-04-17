@@ -4,8 +4,8 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Docs by Webroot'
-copyright = 'Docs by Webroot | 2025'
+project = 'Web Project'
+copyright = 'Web Project | 2025'
 author = 'Marta Attie'
 
 release = '1.0'
